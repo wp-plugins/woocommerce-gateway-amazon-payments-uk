@@ -1,10 +1,10 @@
 === WooCommerce - Amazon UK ===
 Contributors: AgileSolutionsPK
-Donate link: 
+Donate link: http://agilesolutionspk.com/donate/
 Tags: WooCommerce, Payment Gateway
 Requires at least: 3.3
 Tested up to: 3.4
-Stable tag: 1.0.1
+Stable tag: 1.0.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 

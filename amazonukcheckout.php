@@ -6,7 +6,7 @@
  * Author:              S. A. Kamran
  * Author URI:          http://www.agilesolutionspk.com
  * License: 			GPLv2 or later
- * Version:             1.0.0
+ * Version:             1.0.3
  * Requires at least:   3.3
  * Tested up to:        3.4
  *
